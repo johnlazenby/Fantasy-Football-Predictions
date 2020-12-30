@@ -1,5 +1,7 @@
 # Fantasy Football Predictions
 
+This is the final project for MIT 15.072 - Advanced Analytics Edge by John Lazenby, Xiaming Jin, Aarushi Bagga, and Shaun Fendi Gan. The code included here are some of the contributions from John Lazenby. <br>
+
 ## Goal
 The goal of this project is to select winning rosters for daily fantasy football.
 
